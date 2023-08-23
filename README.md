@@ -2,7 +2,7 @@
 
 - 🦄 I’m interested in Game Development
 - 🌱 I’m currently learning Unity
-- 💻 I’m currently working on several game development work.
+- 💻 I’m currently working on several game development projects
 <!--
 **thilina27/thilina27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
